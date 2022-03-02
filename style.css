@@ -25,3 +25,10 @@ section{
     background-image: linear-gradient(aqua, tomato);
     padding: 10px 40px;
 }
+.top-bann{
+    width: 100%;
+
+}
+.top-bann img{
+    padding-bottom: 100 px;
+}
