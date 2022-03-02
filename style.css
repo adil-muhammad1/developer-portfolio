@@ -8,7 +8,7 @@ h1{
 .name{
     color: brown;
 }
-section{
+.felx-contai{
     display: flex;
     
 }
